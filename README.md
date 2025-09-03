@@ -11,7 +11,7 @@ Data analysis of Myntra e-commerce sales using Python and Pandas with insights o
 ## Features
 
 * **Brand Name** – Brand name of the product
-* * **Product Name** – Name of the product
+* **Product Name** – Name of the product
 * **Price** – Final selling price after discount
 * **MRP** – Original price of the product
 * **Discount (%)** – Discount percentage
