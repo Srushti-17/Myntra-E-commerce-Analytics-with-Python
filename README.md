@@ -3,7 +3,7 @@ Data analysis of Myntra e-commerce sales using Python and Pandas with insights o
 
 ## Dataset Overview
 
-* **File Name:** myntra\_dataset\_ByScraping.csv
+* **File Name:** myntra\_dataset\_kaggle.csv
 * **Rows:** 52,120
 * **Columns:** 7
 * **Source:** Kaggle
